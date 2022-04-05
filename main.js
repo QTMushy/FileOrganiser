@@ -28,11 +28,6 @@ switch(command)
 		console.log("Please Enter Valid Command")
 		break;
 }
-
-function treefn(dirPath)
-{
-
-}
 function organizefn(dirpath)
 {
 	if(dirpath==undefined)
