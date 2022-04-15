@@ -49,11 +49,6 @@ function organizefn(dirpath)
 	}
 
 }
-function help()
-{
-
-}
-
 function organizefnHelper(src,dest)
 {
 	let files = fs.readdirSync(src);
